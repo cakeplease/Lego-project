@@ -1,3 +1,6 @@
+# Exercise 1.
+# Robot prints "Hello world" going in rectagular shape and says "Have a nice day".
+
 #!/usr/bin/env pybricks-micropython
 from pybricks.hubs import EV3Brick
 from pybricks.ev3devices import Motor
